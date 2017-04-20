@@ -1,0 +1,15 @@
+[submodule "pack/plugins/start/vim-surround"]
+	path = pack/plugins/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/plugins/start/vim-sensible"]
+	path = pack/plugins/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule "pack/plugins/start/ctrlp.vim"]
+	path = pack/plugins/start/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
+[submodule "pack/plugins/start/vim-erlang-compiler"]
+	path = pack/plugins/start/vim-erlang-compiler
+	url = https://github.com/vim-erlang/vim-erlang-compiler
+[submodule "pack/plugins/start/vim-erlang-tags"]
+	path = pack/plugins/start/vim-erlang-tags
+	url = https://github.com/vim-erlang/vim-erlang-tags

@@ -6,7 +6,7 @@ set noswapfile
 
 " Set lazy redrawing
 " Works better when scrolling fast
-set lazyredraw
+" set lazyredraw
 
 " Tab sizes. I can't stand tabsizes of 8 in the end
 set tabstop=4
@@ -19,8 +19,11 @@ set colorcolumn=81
 " Syntax highlighting on
 syntax enable
 
-"set t_Co=256
+set t_Co=256
+set omnifunc=syntaxcomplete#Complete
+let g:ycm_server_python_interpreter="python2"
 set background=dark
+colorscheme gonzcolors
 
 " Set search highlighting to all matches
 " in gray (color 8)

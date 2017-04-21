@@ -43,3 +43,9 @@
 [submodule "pack/plugins/start/vim-erlang-omnicomplete"]
 	path = pack/plugins/start/vim-erlang-omnicomplete
 	url = https://github.com/hcs42/vim-erlang-omnicomplete/
+[submodule "pack/plugins/start/vim-gutentags"]
+	path = pack/plugins/start/vim-gutentags
+	url = https://github.com/ludovicchabant/vim-gutentags
+[submodule "pack/plugins/start/deoplete.nvim"]
+	path = pack/plugins/start/deoplete.nvim
+	url = https://github.com/Shougo/deoplete.nvim
